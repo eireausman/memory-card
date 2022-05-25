@@ -1,0 +1,2 @@
+.appContainer{display:flex;flex-direction:column}.header{align-items:center;display:flex;flex-direction:row;justify-content:space-between;padding:20px}.shuffleButton{margin-bottom:10px;width:200px}.gameBoardContainer{margin:auto;max-width:630px;min-width:410px}.gameBoard{display:flex;flex-direction:row;flex-wrap:wrap;gap:3px;justify-content:center}.gameBoardImage{border:1px solid grey;cursor:pointer;height:200px;transition:.75s;width:200px}.gameBoardImage:hover{border:1px solid #ff12f7;box-shadow:0 0 10px #1a1919}
+/*# sourceMappingURL=main.9f9f19e7.css.map*/

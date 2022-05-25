@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.9f9f19e7.css",
+    "main.js": "/memory-card/static/js/main.763476bb.js",
+    "static/media/cherryblossom.jpg": "/memory-card/static/media/cherryblossom.d7e7e61c18cda92e1740.jpg",
+    "static/media/japanflag.jpg": "/memory-card/static/media/japanflag.0982b12000a82ae149a9.jpg",
+    "static/media/japanstreetnight1.jpg": "/memory-card/static/media/japanstreetnight1.b309decb1cfc7b103368.jpg",
+    "static/media/japanstreetday.jpg": "/memory-card/static/media/japanstreetday.53e400cdc17eee17b7a4.jpg",
+    "static/media/japanbusystreet.jpg": "/memory-card/static/media/japanbusystreet.68aa0ebc770702b1cf96.jpg",
+    "static/media/tokyoposter.jpg": "/memory-card/static/media/tokyoposter.d49a95f8e8958b74fcdc.jpg",
+    "static/media/japanicecream.jpg": "/memory-card/static/media/japanicecream.8817e66e3ecb6b8bce8a.jpg",
+    "static/media/japantemple.jpg": "/memory-card/static/media/japantemple.ab876e7b19b717522d17.jpg",
+    "static/media/blossommountain.jpg": "/memory-card/static/media/blossommountain.5b42654569fdf503a186.jpg",
+    "index.html": "/memory-card/index.html",
+    "main.9f9f19e7.css.map": "/memory-card/static/css/main.9f9f19e7.css.map",
+    "main.763476bb.js.map": "/memory-card/static/js/main.763476bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f9f19e7.css",
+    "static/js/main.763476bb.js"
+  ]
+}
