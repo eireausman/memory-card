@@ -1,0 +1,44 @@
+.appContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+.shuffleButton {
+  width: 200px;
+  margin-bottom: 10px;
+}
+
+.gameBoardContainer {
+  margin: auto;
+  max-width: 630px;
+  min-width: 410px;
+}
+
+.gameBoard {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 3px;
+}
+
+.gameBoardImage {
+  width: 200px;
+  height: 200px;
+  border: 1px solid grey;
+  cursor: pointer;
+  transition: 0.75s;
+}
+
+.gameBoardImage:hover {
+  border: 1px solid rgb(255, 18, 247);
+  box-shadow: 0px 0px 10px #1a1919;
+}
