@@ -25,14 +25,11 @@ function App() {
         setBestScore(newScore);
       }
       shuffleImageOrder();
-      console.log(newScore);
     } else {
       // item already clicked and so game is over.  Reset the game and alert the user:
       window.alert("Image previously clicked.  Please play again....");
       setUpNewGame();
     }
-
-    console.log(guessedItemsArray);
   };
 
   const setUpNewGame = () => {
